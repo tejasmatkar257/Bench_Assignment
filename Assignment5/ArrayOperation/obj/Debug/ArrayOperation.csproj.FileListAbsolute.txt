@@ -1,0 +1,8 @@
+D:\Assignment3\ArrayOperation\bin\Debug\ArrayOperation.exe.config
+D:\Assignment3\ArrayOperation\bin\Debug\ArrayOperation.exe
+D:\Assignment3\ArrayOperation\bin\Debug\ArrayOperation.pdb
+D:\Assignment3\ArrayOperation\obj\Debug\ArrayOperation.csproj.AssemblyReference.cache
+D:\Assignment3\ArrayOperation\obj\Debug\ArrayOperation.csproj.SuggestedBindingRedirects.cache
+D:\Assignment3\ArrayOperation\obj\Debug\ArrayOperation.csproj.CoreCompileInputs.cache
+D:\Assignment3\ArrayOperation\obj\Debug\ArrayOperation.exe
+D:\Assignment3\ArrayOperation\obj\Debug\ArrayOperation.pdb

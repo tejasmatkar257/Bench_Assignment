@@ -1,0 +1,8 @@
+D:\Assignment3\Exception\bin\Debug\Exception.exe.config
+D:\Assignment3\Exception\bin\Debug\Exception.exe
+D:\Assignment3\Exception\bin\Debug\Exception.pdb
+D:\Assignment3\Exception\obj\Debug\Exception.csproj.AssemblyReference.cache
+D:\Assignment3\Exception\obj\Debug\Exception.csproj.SuggestedBindingRedirects.cache
+D:\Assignment3\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+D:\Assignment3\Exception\obj\Debug\Exception.exe
+D:\Assignment3\Exception\obj\Debug\Exception.pdb

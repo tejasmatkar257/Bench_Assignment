@@ -1,0 +1,3 @@
+D:\Assignment5\GenericClassList\obj\Debug\GenericClassList.csproj.AssemblyReference.cache
+D:\Assignment5\GenericClassList\obj\Debug\GenericClassList.csproj.SuggestedBindingRedirects.cache
+D:\Assignment5\GenericClassList\obj\Debug\GenericClassList.csproj.CoreCompileInputs.cache
